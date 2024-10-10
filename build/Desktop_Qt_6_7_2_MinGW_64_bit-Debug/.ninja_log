@@ -1,0 +1,10 @@
+# ninja log v6
+1	51	7502770415445264	E:/code/program/bloster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	e84e6c4630ab7889
+52	417	7502770419084308	bloster_autogen/timestamp	ea23247bb9b53eb
+52	417	7502770419084308	bloster_autogen/mocs_compilation.cpp	ea23247bb9b53eb
+52	417	7502770419084308	E:/code/program/bloster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/bloster_autogen/timestamp	ea23247bb9b53eb
+52	417	7502770419084308	E:/code/program/bloster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/bloster_autogen/mocs_compilation.cpp	ea23247bb9b53eb
+419	1857	7502770419621184	CMakeFiles/bloster.dir/bloster_autogen/mocs_compilation.cpp.obj	72f2a955a601900f
+423	1916	7502770419655500	CMakeFiles/bloster.dir/main.cpp.obj	10488c9486291bb5
+427	1945	7502770419700701	CMakeFiles/bloster.dir/main_window_t.cpp.obj	a7f17e63b0d15052
+1945	2066	7502770434882098	bloster.exe	587b4c42b8b2ba41
